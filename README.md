@@ -4,7 +4,7 @@ This project provides a Python-based simulation to analyze and visualize the Bit
 
 The simulation results are plotted against the theoretical BER curves to validate the implementation and demonstrate the trade-offs between spectral efficiency and noise immunity for each scheme.
 
-![BER Plot](https://i.imgur.com/3vj5gqA.png)
+![BER Plot](Figure_1.png)
 
 ---
 
